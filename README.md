@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Jemma-MS
+- 👀 I’m interested in Flutter, Vue, React, Python, .NET...
+- 🌱 I’m currently learning React...
+- 📫 How to reach me https://www.instagram.com/michim_s/...
+
+<!---
+Jemma-MS/Jemma-MS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
